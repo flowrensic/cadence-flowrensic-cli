@@ -1,6 +1,6 @@
 # Flowrensic for Cadence CLI
 
-Proof of concept. This CLI is an early preview and not ready for production. Its commands can change in any version.
+Proof of concept. This CLI is an early preview and not ready for production.
 
 Flowrensic runs beside your durable workflow engine and finds problems in your workflows. Flowrensic for Cadence is a proof of concept: it finds problems in Cadence workflows. Its server has 20 finding classes ported from Temporal and one of its own, Activity retrying, and a findings page with filters for severity, class, domain, workflow type and status.
 
