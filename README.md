@@ -1,6 +1,6 @@
 # Flowrensic for Cadence CLI
 
-Flowrensic runs beside your durable workflow engine and finds problems in your workflows. Flowrensic for Cadence finds problems in Cadence workflows. Its server has 20 finding classes ported from Temporal and one of its own, Activity retrying, and a findings page with filters for severity, class, domain, workflow type and status.
+Flowrensic runs beside your durable workflow engine and finds problems in your workflows. Flowrensic for Cadence finds problems in Cadence workflows. Its server has 20 problem types ported from Temporal and one of its own, Activity retrying, and a findings page with filters for severity, class, domain, workflow type and status.
 
 This is the command line client, cadence-flowrensic, for your CI. It asks a Flowrensic for Cadence server how it is.
 
